@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/363011?s=200&v=4" alt="80s80s-radio" style="width:auto;height:250px;">
+  <img src="https://github.com/thore-dahl/streeteasy-dl-regression-cw/assets/130995551/b5ca10cc-b623-4cc6-9554-8c47b5a5d94f" alt="80s80s-radio" style="width:auto;height:250px;">
   <h1>Rent Rate Estimator</h1>
 </div>
 <br>
