@@ -29,5 +29,5 @@
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
   </a>
   <h1></h1>
-  A project based on <a href="https://streeteasy.com">StreetEasy</a>'s Manhattan rental properties. Multi-structural data on such properties submitted to initial and explanatory analysis before being preprocessed. Preprocessed data fueled neural networks' training and optimization. Optimization involved cross-validated architectural tuning. The optimized neural network outperformed dummy and machine learning baselines with a MAPE of 12.7% on yet unseen data. A rent estimator for landlord cold start prevention was thus furnished.
+  A project based on <a href="https://streeteasy.com">StreetEasy</a>'s Manhattan rental properties. Multi-structural data on such properties submitted to initial and explanatory analysis before being preprocessed. Preprocessed data fueled <code>neural networks'</code> training and optimization. Optimization involved cross-validated architectural tuning. The optimized <code>neural network</code> outperformed dummy and machine learning baselines with a MAPE of 12.7% on yet unseen data. A rent regressor for landlord cold start prevention was thus furnished.
 </div>
