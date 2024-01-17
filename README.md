@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://github.com/thore-dahl/streeteasy-dl-regression-cw/assets/130995551/6c370004-baf2-477d-a931-61f9c506e79d" alt="streetwise" style="width:auto;height:250px;">
-  <h1>Rent Rate Estimator</h1>
+  <h1>Rent Rate Regressor</h1>
 </div>
 <br>
 <div align="center">
